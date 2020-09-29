@@ -1,0 +1,7 @@
+apiVersion: cache.demo.com/v1alpha1
+kind: Memcached
+metadata:
+  name: example-memcached
+spec:
+  # Add fields here
+  numOfReplicas: 3
