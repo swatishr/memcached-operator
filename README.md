@@ -16,7 +16,7 @@ For more information: https://sdk.operatorframework.io/docs/installation/install
 
 ### Download the code
 
-git clone [git@github.com:swatishr/memcached-operator.git](git@github.com:swatishr/memcached-operator.git)
+git clone [git@github.com:swatishr/memcached-operator.git](https://github.com/swatishr/memcached-operator.git)
 
 cd memcached-operator
 
